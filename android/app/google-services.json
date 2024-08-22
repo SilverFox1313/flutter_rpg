@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942995316601",
+    "project_id": "flutter-masterclass-41445",
+    "storage_bucket": "flutter-masterclass-41445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942995316601:android:ea661f696f3b717dfa19a8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_rpg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-oH8plivKZjpaY1srFCjaWknW9JJfao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
